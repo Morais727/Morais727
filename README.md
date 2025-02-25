@@ -1,19 +1,3 @@
-<p align="center">
-  <!-- Banner -->
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQF_7bJd1uXDbA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1708689599158?e=1746057600&v=beta&t=5QhKuewhqsPrnNtGhSuXkM7TVurismMMxLA42mFMbEg" 
-  alt="Banner" width="100%">
-</p>
-
-<p align="center">
-  <!-- Imagem de perfil sobreposta -->
-  <img src="https://media.licdn.com/dms/image/v2/D4D03AQHU4hUpAHbEKA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1694006324389?e=1746057600&v=beta&t=jHWViC19XBxTJEoUboXwcYakObeQJUd-ZbcwQsmoI3o" 
-  alt="Foto de Perfil" width="120px" style="border-radius: 50%; margin-top: -60px; border: 3px solid white;">
-</p>
-
-<br>
-
-## Marcos Morais
-
 Sou estudante de **Engenharia de Controle e Automação** na **UFLA**, com foco em **inteligência artificial** e **desenvolvimento ágil**.  
 Atualmente, realizo **iniciação científica no IC-Unicamp**, aplicando **aprendizado distribuído** para resolver desafios reais.  
 
